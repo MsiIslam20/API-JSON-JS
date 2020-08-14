@@ -1,0 +1,27 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #0F141E;
+    text-align: center;
+    background: aliceblue;
+}
+h1{
+    color: #080e50;
+}
+p{
+    color: red;
+}
+input{
+    padding: 10px 10px;
+    margin-bottom: 20px;
+    border: 2px solid blue;
+    border-radius: 5px;
+    font-size: 20px;
+}
+#submit{
+    padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+    border: 2px solid blue;
+    font-weight: bold;
+    border-radius: 5px;
+}
